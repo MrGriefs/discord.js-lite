@@ -1,7 +1,7 @@
 {
-  "name": "discord.js",
-  "version": "13.3.0-dev",
-  "description": "A powerful library for interacting with the Discord API",
+  "name": "discord.js-lite",
+  "version": "0.0.1",
+  "description": "A fork of Discord.js with performance in mind",
   "main": "./src/index.js",
   "module": "./src/index.mjs",
   "types": "./typings/index.d.ts",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/discordjs/discord.js.git"
+    "url": "https://github.com/MrGriefs/discord.js-lite.git"
   },
   "keywords": [
     "discord",
@@ -41,12 +41,12 @@
     "node",
     "discordapp"
   ],
-  "author": "Amish Shah <amish@shah.gg>",
+  "author": "Reece Stokes <hagen@hyena.gay>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/discordjs/discord.js/issues"
+    "url": "https://github.com/MrGriefs/discord.js-lite/issues"
   },
-  "homepage": "https://discord.js.org",
+  "homepage": "https://github.com/MrGriefs/discord.js-lite#readme",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/collection": "^0.2.1",
